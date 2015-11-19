@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/DoesGitHubWork.iml" filepath="/Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/DoesGitHubWork.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/app/app.iml" filepath="/Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/lib/lib.iml" filepath="/Volumes/DATA/Users/cruester/Desktop/DoesGitHubWork/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
